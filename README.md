@@ -1,4 +1,4 @@
-This is a PyTorch implementation of "Backdoor Defense using Non-Adversarial Backdoor" (in submission).
+This is a PyTorch implementation of "Backdoor Defense using Non-Adversarial Backdoor" (accepted by ICCV-23).
 
 Our defense framework injects a non-adversarial backdoor to suppress the effectiveness of backdoor attack.
 
