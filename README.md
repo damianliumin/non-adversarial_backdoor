@@ -1,4 +1,4 @@
-This is an implementation of "Backdoor Defense using Non-Adversarial Backdoor".
+This is an implementation of "Backdoor Defense with Non-Adversarial Backdoor".
 
 The defense framework injects a non-adversarial backdoor to suppress the effectiveness of backdoor attack.
 
