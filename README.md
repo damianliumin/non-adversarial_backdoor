@@ -1,4 +1,4 @@
-This is an implementation of "Backdoor Defense with Non-Adversarial Backdoor".
+This is the implementation of "Beating Backdoor Attack at Its Own Game" (ICCV-23).
 
 The defense framework injects a non-adversarial backdoor to suppress the effectiveness of backdoor attack.
 
