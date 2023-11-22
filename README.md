@@ -70,3 +70,15 @@ python evaluate_filter.py \
 NAB with LGA and NC under BadNets attack.
 
 ![training_process](figs/process.png)
+
+# Citation
+Please consider citing our paper if your find our research or this codebase helpful:
+```
+@inproceedings{liu2023beating,
+  title={Beating Backdoor Attack at Its Own Game},
+  author={Liu, Min and Sangiovanni-Vincentelli, Alberto and Yue, Xiangyu},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={4620--4629},
+  year={2023}
+}
+```
